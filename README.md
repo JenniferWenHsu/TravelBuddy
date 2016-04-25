@@ -25,5 +25,3 @@ Vicky Tu       : made models, users, controllers, views<br/>
 Christine Zheng: made models, users, controllers, views<br/>
 
 
-ifferent markup language if you do not plan to run
-<tt>rake doc:app</tt>.
